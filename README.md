@@ -11,13 +11,13 @@ A simple Golang RESTful API using Fiber framework with the simple intent of lear
 
 #### Clone the repository:
 ```
-git clone https://github.com/your-username/go-fiber-api.git
+git clone https://github.com/athironsilva/go-fiber-api.git
 ```
    
 #### Navigate to the project directory:
 
 ```
-cd go-api-project
+cd go-fiber-api
 ```
 
 #### Install the dependencies:
@@ -30,7 +30,7 @@ go mod download
 
 ```
 go build
-./go-api-project
+./go-fiber-api
 ```
 
 #### The API will start running on http://localhost:8080.
